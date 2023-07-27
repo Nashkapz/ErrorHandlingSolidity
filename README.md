@@ -52,7 +52,7 @@ If the RequireAuthorization function was executed then it checks if _pass matche
 Similar things happen with RevertAuthorization except we enter inly one argument i.e. the statement to revert back and the condition was checked before hand and it also returns all the remaining gas(not the consumed one as once consumed the gas cant be returned). 
 In AssertAuthorization we enter only single argument i.e. the condition to be checked if not satisfied it reverts with an error message.
 
-For detailed description you can visit my Loom video.
+For detailed description you can visit my [Loom](https://www.loom.com/share/084491159bd84405b18e1a6f9e0bc91a?sid=0d67ad07-ac27-4f4a-8688-fadf6670ead3) video.
 ## Authors
 
 Metacrafter Sourav  
